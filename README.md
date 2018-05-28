@@ -6,7 +6,7 @@ This project will take an number inputed from the user and create an array of nu
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+### Setup and Running Tests
 
 What things you need to install the software and how to install them.
 
